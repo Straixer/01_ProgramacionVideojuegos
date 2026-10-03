@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_Practica_ProgramacionVideojuegos/01_Practica_ProgramacionVideojuegos.vcxproj" />
+  <Project Path="01_Practica_ProgramacionVideojuegos/01_Practica_ProgramacionVideojuegos.vcxproj" Id="986da440-e4b9-4055-b26f-09fc6b741db7" />
 </Solution>
