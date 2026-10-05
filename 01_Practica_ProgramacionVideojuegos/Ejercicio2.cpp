@@ -8,6 +8,7 @@ double mrua(double x0, double v0, double t, double a) {
 }
 
 void ejercicio2() {
+	printf("-------------EJERCICIO 2------------\n");
 	int suma = sumaEnteros(5, 20);
 	printf("Resultado de la suma: %d\n", suma);
 

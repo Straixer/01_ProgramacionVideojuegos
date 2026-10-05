@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\",
+  "WorkspaceRootPath": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{986DA440-E4B9-4055-B26F-09FC6B741DB7}|01_Practica_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos.vcxproj|solutionrelative:01_Practica_ProgramacionVideojuegos\\Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ejercicio5.cpp",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T09:34:00.388Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ejercicio5.h",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio5.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -68,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Ejercicio2.h",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio2.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -83,49 +83,50 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Ejercicio1.h",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio1.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-03T15:28:15.283Z"
+              "WhenOpened": "2026-10-03T15:28:15.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Ejercicio1.cpp",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-03T15:23:30.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Main.cpp",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Main.cpp",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-03T15:23:44.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ejercicio2.cpp",
-              "DocumentMoniker": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
               "RelativeDocumentMoniker": "01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
-              "ToolTip": "D:\\Universidad\\ProgramacionVideojuegos\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
+              "ToolTip": "C:\\Universidad\\ProgramacionVideojuegos2\\01_ProgramacionVideojuegos\\01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
               "RelativeToolTip": "01_Practica_ProgramacionVideojuegos\\Ejercicio2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-03T15:09:16.901Z",
               "EditorCaption": ""

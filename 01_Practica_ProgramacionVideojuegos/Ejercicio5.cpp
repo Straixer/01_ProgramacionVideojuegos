@@ -1,3 +1,5 @@
+#include <vector>
+#include <cstdio>
 struct Entity {
 	unsigned short health;// 2 bytes
 	__int8 resistance;// 1 byte
@@ -26,4 +28,18 @@ void initEntity(Entity& entity) {
 }
 
 void ejercicio5() {
+	printf("-------------EJERCICIO 5------------\n");
+	const int maxEntityCount = 100000;
+	std::vector<Entity> entityVector;
+	entityVector.resize(maxEntityCount);
+
+	for (Entity& e : entityVector) {
+		initEntity(e);
+	}
+
+	double structSize = sizeof(Entity);
+	double totalBytes = (maxEntityCount * structSize);
+	double totalKB = totalBytes / 1024.0;
+	printf("Tamanio de la estructura Entity: %f bytes\n", structSize);
+	printf("Memoria usada por entidades: %f KB\n", totalKB);
 }

@@ -9,6 +9,7 @@ void ejercicio1() {
 	double doubleNumber = 34.34;
 	char character = 's';
 	char string[] = "Cadena de Texto";
+	printf("-------------EJERCICIO 1------------\n");
 	printf("int: %d\n"
 		"unsigned int: %u\n"
 		"long int: %ld\n"
